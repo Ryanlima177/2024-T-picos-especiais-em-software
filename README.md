@@ -1,2 +1,2 @@
-# 2024-T-picos-especiais-em-software
+# 2024-Tópicos-especiais-em-software
 Repositório com os projetos da disciplina de software
